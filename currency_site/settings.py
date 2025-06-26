@@ -26,8 +26,9 @@ SECRET_KEY = 'django-insecure-3mfymhs^oieg6m3iz!!z7vfj$od%g_nmd_#5y31s+@v*&lwre$
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    "currencycalculator.herokuapp.com",
     "localhost",
+    "127.0.0.1",
+    "currencycalculator-0156b88d1bc4.herokuapp.com",
 ]
 
 # Application definition
