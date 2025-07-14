@@ -25,11 +25,8 @@ SECRET_KEY = 'django-insecure-3mfymhs^oieg6m3iz!!z7vfj$od%g_nmd_#5y31s+@v*&lwre$
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [
-    "localhost",
-    "127.0.0.1",
-    "currencycalculator-0156b88d1bc4.herokuapp.com",
-]
+ALLOWED_HOSTS = ['DavidEntonu.pythonanywhere.com']
+
 
 # Application definition
 
